@@ -4,7 +4,7 @@ This is my Awesomeeee Repo
 ## Table of Contents
 
 - Installation
-- Important Notes
+- Important Notizen
 - Best Pizza in Town!
 
 This is some awesome description on my super awesome repo.
