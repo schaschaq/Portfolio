@@ -7,7 +7,7 @@ This is my Awesomeeee Repo
 - Important Notes
 - Best Pizza in Town!
 
-This is some awesemoe description on my super awesome repo.
+This is some awesome description on my super awesome repo.
 And I have no idea what I  am doing.
 Another _feature_
 
